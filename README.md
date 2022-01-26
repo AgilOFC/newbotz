@@ -1,0 +1,2 @@
+# newbotz
+runbot
